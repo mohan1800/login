@@ -1,0 +1,28 @@
+body{
+    background-image: url(./images/vk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    margin-left: 10PX;
+    margin-top: 10PX;
+    background-color: rgba(0, 255, 255, 0.206);
+    width: 30%;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+#cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+label,input,button,a{
+    display: block;
+    margin-bottom: 10px;
+}
+form h1{
+text-align: center;
+}
